@@ -10,10 +10,16 @@ This Currency Converter is a user-friendly web application designed to provide r
 - **Real-Time Exchange Rates:** Fetch live currency data to ensure the most accurate conversions.
 - **Support for Multiple Currencies:** Convert between a broad array of global currencies.
 - **Simple User Interface:** A clean, intuitive interface ensures ease of use for all users, regardless of their technical background.
-- **API-Driven Data:** Utilizes the [Exchange API](https://github.com/fawazahmed0/exchange-api), a robust financial API, to retrieve currency data, ensuring reliability and precision.
+- **API-Driven Data:** Utilizes a robust financial API to retrieve currency data, ensuring reliability and precision.
 
-## Exchange API
-The Currency Converter Tool utilizes the Exchange API for fetching currency data. This API provides a simple, fast, and reliable way to access real-time exchange rates for over 170 currencies worldwide. You can find more information about this API and how to use it on the [GitHub repository](https://github.com/fawazahmed0/exchange-api).
+## About the API
+The Currency Converter Tool utilizes the [Free Currency Exchange Rates API](https://github.com/fawazahmed0/exchange-api), which offers a variety of features and benefits:
+
+- **Free & Blazing Fast:** Enjoy lightning-fast response times without any rate limits.
+- **Extensive Currency Coverage:** Access exchange rates for over 150 currencies, including common cryptocurrencies.
+- **Daily Updates:** The API is updated daily to ensure currency rates are current and accurate.
+
+For more details about the API, including the URL structure, formats, and available endpoints, refer to the [API documentation](https://github.com/fawazahmed0/exchange-api).
 
 ## Usage
 To use the converter, simply select your source and target currencies, enter the amount you wish to convert, and submit the form. The application will display the converted amount in the target currency based on the latest available rate.
